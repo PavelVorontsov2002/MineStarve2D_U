@@ -1,0 +1,2 @@
+D:\Учеба\МИРЭА\2 курс\Мобилка\MineStarve2D\MineStarve2D\obj\Debug\Unity.2D.Tilemap.Extras.Editor.csproj.AssemblyReference.cache
+D:\Учеба\МИРЭА\2 курс\Мобилка\MineStarve2D\MineStarve2D\obj\Debug\Unity.2D.Tilemap.Extras.Editor.csproj.CoreCompileInputs.cache
